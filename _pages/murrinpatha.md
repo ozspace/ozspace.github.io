@@ -5,7 +5,7 @@ title: Murrinpatha
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /languages-and-fieldsites/murrinpatha/
 header:
-  overlay_image: /assets/images/flat.jpg
+  overlay_image: /assets/images/splash.jpg
 ---
 Murrinhpatha (aka Murriny Patha or Murrinh-Patha) is the lingua franca spoken by almost all Aboriginal people in the Moyle and Fitzmaurice rivers region of Australia’s Northern Territory. Most of the 3000+ speakers reside in Wadeye, though others live in Darwin, Daly River, Peppimenarti, Nganmarriyanga, Kuy, Yederr, and Kununurra (in Western Australia). As well as by ethnic Murrinhpatha people, the language is used in Wadeye and surrounding communities for daily communication by people whose primary linguistic affiliations are to the Marri Tjevin, Marri Amu, Marri Ngarr, Makati Ke and Jaminjung languages (none of which are being acquired by children). In Wadeye Murrinhpatha is being acquired by children who, prior to encountering English at school, grow up as monolinguals in a largely Murrinhpatha speaking environment. The vast majority of all interactions are conducted in Murrinhpatha. As well as for the non-adoption of English as a language of communication (except in dealings with Europeans), Wadeye is notable for the virtual absence of Kriol.
 

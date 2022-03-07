@@ -5,7 +5,7 @@ title: Languages and fieldsites
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /languages-and-fieldsites/
 header:
-  overlay_image: /assets/images/flat.jpg
+  overlay_image: /assets/images/splash.jpg
 feature_row1:
   - image_path: /assets/images/murrinpatha.jpg
     alt: "placeholder image 1"
