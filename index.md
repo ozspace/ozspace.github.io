@@ -14,7 +14,7 @@ feature_row1:
     url: "/languages-and-fieldsites"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/map.png
+  - image_path: /assets/images/map.PNG
     alt: "Language survey"
     title: "Language Survey"
     excerpt: "Overview of the language survey of the project."
