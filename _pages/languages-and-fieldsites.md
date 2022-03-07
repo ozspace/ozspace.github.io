@@ -16,21 +16,21 @@ feature_row1:
     btn_class: "btn--inverse"
     type: left
 #  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Kune"
-    excerpt: "Coming soon"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    type: center
+#    alt: "placeholder image 2"
+#    title: "Kune"
+#    excerpt: "Coming soon"
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+#    type: center
 #  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Kukatja"
-    excerpt: "Brief info on Kukatja."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    type: right
+#    alt: "placeholder image 2"
+#    title: "Kukatja"
+#    excerpt: "Brief info on Kukatja."
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+#    type: right
 
 feature_row2:
   - image_path: /assets/images/flat.jpg
