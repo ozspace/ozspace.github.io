@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: true
+author_profile: false
 header:
   overlay_image: /assets/images/splash.jpg
   caption: Photo by Phillipe Wuyts
