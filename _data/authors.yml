@@ -11,8 +11,8 @@ Laurits:
       url: "https://twitter.com/extravagantman"
 
 Bill:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
+  name        : "Bill"
+  bio         : ""
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Twitter"
