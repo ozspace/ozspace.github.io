@@ -10,20 +10,20 @@ feature_row1:
   - image_path: /assets/images/murrinpatha.jpg
     alt: "placeholder image 1"
     title: "Murrinpatha"
-    excerpt: "Brief info on Murrinpatha."
+    excerpt: "Information on Murrinpatha"
     url: "/languages-and-fieldsites/murrinpatha"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
-  - image_path: /assets/images/placeholder.png
+#  - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Kune"
-    excerpt: "Brief info on Kune."
+    excerpt: "Coming soon"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: center
-  - image_path: /assets/images/placeholder.png
+#  - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Kukatja"
     excerpt: "Brief info on Kukatja."
