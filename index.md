@@ -2,7 +2,7 @@
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/flat.JPG
+  overlay_image: /assets/images/flat.jpg
 title: About the project
 permalink: /
 feature_row1:
