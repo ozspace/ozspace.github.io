@@ -6,6 +6,7 @@ title: Languages and fieldsites
 permalink: /languages-and-fieldsites/
 header:
   overlay_image: /assets/images/splash.jpg
+  caption: Photo by Phillipe Wuyts
 feature_row1:
   - image_path: /assets/images/murrinpatha.jpg
     alt: "placeholder image 1"

@@ -3,6 +3,7 @@ layout: splash
 author_profile: true
 header:
   overlay_image: /assets/images/splash.jpg
+  caption: Photo by Phillipe Wuyts
 title: About the project
 permalink: /
 feature_row1:

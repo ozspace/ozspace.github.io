@@ -6,5 +6,6 @@ title: Language Survey
 permalink: /language-survey/
 header:
   overlay_image: /assets/images/splash.jpg
+  caption: Photo by Phillipe Wuyts
 ---
 # Work in progress
