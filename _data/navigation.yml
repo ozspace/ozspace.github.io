@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "The project"
+    url: /
+  - title: "The team"
+    url: /the-team/
+#  - title: "Languages and Fieldsites"
+#    url: /fieldsites/
+#  - title: "Language Survey"
+#    url: /language-survey/
+  - title: "Publications"
+    url: /publications/
+  - title: "Blog"
+    url: /blog/
+
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
