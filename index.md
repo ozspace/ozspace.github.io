@@ -9,7 +9,7 @@ permalink: /
 feature_row1:
   - image_path: /assets/images/languages-and-fieldsites.png
     alt: "Languages and field sites"
-    title: "Languages and field sites"
+    title: "Sociotopographic study"
     excerpt: "The languages and field sites of the project."
     type: left
     url: "/languages-and-fieldsites"
