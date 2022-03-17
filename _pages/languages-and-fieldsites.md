@@ -9,14 +9,14 @@ header:
   caption: Photo by Phillipe Wuyts
 feature_row1:
   - image_path: /assets/images/murrinpatha.jpg
-    alt: "placeholder image 1"
+    alt: "Picture of Australian coastline"
     title: "Murrinpatha"
     excerpt: "Information on Murrinpatha"
     url: "/languages-and-fieldsites/murrinpatha"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
     title: "More coming soon"
     excerpt: " "
@@ -59,7 +59,6 @@ feature_row2:
     btn_class: "btn--inverse"
     type: right
 ---
-These are the languages we conduct in-depth sociotopographic case studies on.
 
 {% include feature_row1 %}
 
