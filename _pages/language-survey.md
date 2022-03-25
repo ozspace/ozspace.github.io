@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: Language Survey
+title: Topographic correspondence study
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /language-survey/
 header:

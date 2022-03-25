@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: Languages and fieldsites
+title: Sociotopographic study
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /languages-and-fieldsites/
 header:
@@ -59,7 +59,7 @@ feature_row2:
     btn_class: "btn--inverse"
     type: right
 ---
-
+## Languages and fieldsites
 {% include feature_row1 %}
 
 <!-- When more languages are added add {% include feature_row2 %}. -->
