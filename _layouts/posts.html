@@ -7,11 +7,12 @@ layout: archive
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
+  <!-- Commented out to not show double year.
     <li>
       <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
       </a>
-    </li>
+    </li> -->
   {% endfor %}
 </ul>
 
