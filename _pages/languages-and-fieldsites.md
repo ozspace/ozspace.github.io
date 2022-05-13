@@ -16,9 +16,11 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
+    image_caption: "Photo by Joe Blythe"
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
     title: "More coming soon"
+    image_caption: "Photo by Joe Blythe"
     excerpt: " "
     #url: "#test-link"
     #btn_label: "Read More"
