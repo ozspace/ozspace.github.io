@@ -23,6 +23,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: center
+    caption: Photo by Dorothea Hoffmann
 ---
 
 This project aims to investigate how landscape interacts with culture and social diversity to build representations of physical space in the minds and grammars of speakers of Australian Indigenous languages. Its goals include the first Australia-wide survey of Indigenous spatial systems correlated with landscape; and the first systematic investigation of diversity among individuals within communities, collecting completely new experimental and natural data in a handful of endangered Indigenous languages. This is expected to reveal what Australian Indigenous languages and cultures can tell us about the nature of human spatial cognition, have significant benefits for the maintenance and revitalization of Indigenous language and culture.
