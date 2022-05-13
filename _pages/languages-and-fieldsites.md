@@ -8,11 +8,11 @@ header:
   overlay_image: /assets/images/splash.jpg
   caption: Photo by Phillipe Wuyts
 feature_row1:
-  - image_path: /assets/images/murrinpatha.jpg
+  - image_path: /assets/images/murrinhpatha.jpg
     alt: "Picture of Australian coastline"
-    title: "Murrinpatha"
-    excerpt: "Information on Murrinpatha"
-    url: "/languages-and-fieldsites/murrinpatha"
+    title: "Murrinhpatha"
+    excerpt: "Information on Murrinhpatha"
+    url: "/languages-and-fieldsites/murrinhpatha"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
