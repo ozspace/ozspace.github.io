@@ -17,23 +17,23 @@ feature_row1:
     btn_class: "btn--inverse"
     type: left
     image_caption: "Photo by Joe Blythe"
+  - image_path: /assets/images/kune.jpg
+    alt: "Australian landscape photo"
+    title: "Kune"
+    excerpt: "Information on Kune"
+    url: "/languages-and-fieldsites/kune"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    type: center
+    image_caption: "Photo by  Carlos Kruger/Eleanor Yacopetti"
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
     title: "More coming soon"
-    image_caption: "Photo by Joe Blythe"
-    excerpt: " "
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--inverse"
-    type: center
-#  - image_path: /assets/images/placeholder.png
-#    alt: "placeholder image 2"
-#    title: "Kukatja"
-#    excerpt: "Brief info on Kukatja."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--inverse"
-#    type: right
+    #excerpt: "Brief info on Kukatja."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    type: right
 
 feature_row2:
   - image_path: /assets/images/flat.jpg
@@ -52,13 +52,13 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: center
-  - image_path: /assets/images/flat.jpg
+  - image_path: /assets/images/placeholder.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "Small info on ."
+    title: "more coming soon"
+    excerpt: ""
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    #btn_label: "Read More"
+    #btn_class: "btn--inverse"
     type: right
 ---
 ## Languages and fieldsites
