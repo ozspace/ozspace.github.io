@@ -19,6 +19,6 @@ Two of Tom's long-term mentors—Marie Mudgedell and Patrick Smith (pictured)—
 
 Tom will be in Balgo until late August working with multiple generations in Balgo to explore how Kukatja speakers use their varying linguistic and gestural repertoires to communicate about space, landscape and time. This involves recording various narratives and oral histories with speakers as well as conducting various ‘language games’ (e.g. the “Man and Tree game” - pictured) designed to compare how speakers of different languages solve fundamental issues of spatial reference.
 
-<p style="text-align:center;"><img src="/assets/images/Blogpost2_Marie_Helen" width="700" height="700" alt="Marie Mudgedell (left) and Helen Nagomara (right) play the Man and Tree Game"/></p>
+<p style="text-align:center;"><img src="/assets/images/Blogpost2_Marie_Helen.jpeg" width="700" height="700" alt="Marie Mudgedell (left) and Helen Nagomara (right) play the Man and Tree Game"/></p>
 
 As part of this research, Tom will also be joining Warlayirti Artists on a big trip down the Canning Stock Route south of Balgo in the coming weeks to help document important histories and stories with Kukatja people. Trips like these are a highlight for Balgo families—offering rare opportunities to revisit remote tracts of country, reconnect with important sites and share stories. Check out some of the stunning footage, stories and recordings Tom helped collect last year on a similar trip [here](https://vimeo.com/679822736). Palya!
