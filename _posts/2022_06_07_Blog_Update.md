@@ -7,7 +7,7 @@ show_date: true
 layout: splash
 ---
 
-### From the field
+### News from the field: Balgo (Western Australia)
 
 OzSpace PhD Tom Ennever has recently returned to Balgo in the southeast Kimberley region of Western Australia, evading surprisingly heavy June rains in the Tanami Desert to continue his work with Kukatja speakers on spatial reference.
 
