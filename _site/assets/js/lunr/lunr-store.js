@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022-05/ozspace-workshop/",
         "teaser": null
+      },{
+        "title": "News from the field: Balgo (Western Australia)",
+        "excerpt":"News from the field: Balgo (Western Australia) OzSpace PhD Tom Ennever has recently returned to Balgo in the southeast Kimberley region of Western Australia, evading surprisingly heavy June rains in the Tanami Desert to continue his work with Kukatja speakers on spatial reference. Two of Tom’s long-term mentors—Marie Mudgedell and...","categories": [],
+        "tags": [],
+        "url": "/blog/2022-06/ennever-fieldwork/",
+        "teaser": null
       }]

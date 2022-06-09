@@ -2,7 +2,7 @@
 title: 'News from the field: Balgo (Western Australia)'
 excerpt: "A short fieldwork update from OzSpace PhD Tom Ennever."
 date: 2022-06-07
-permalink: /blog/2022-06/Ennever-fieldwork/
+permalink: /blog/2022-06/ennever-fieldwork/
 show_date: true
 layout: splash
 ---
