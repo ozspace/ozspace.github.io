@@ -1,11 +1,13 @@
-  ---
-Layout: Default
-Title: News from the field: Arnhem Land (Northern Territory)
-Category:
-Permalink: /news-from-the-field-arnhem-land-northern-territory/
+---
+title: 'News from the field: Arnhem Land (Northern Territory)'
+excerpt: "A short report from the Kune subproject."
+date: 2022-07-28
+permalink: /blog/2022-05/yacopetti-fieldwork/
+show_date: true
+layout: splash
 ---
 
-# News from the field: Arnhem Land (Northern Territory)
+### News from the field: Arnhem Land (Northern Territory)
 
 *Eleanor Yacopetti, PhD candidate*
 
