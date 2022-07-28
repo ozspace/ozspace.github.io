@@ -1,6 +1,6 @@
 ---
 title: 'News from the field: Arnhem Land (Northern Territory)'
-excerpt: "A short report from the Kune subproject."
+excerpt: "A short Kune fieldwork update from OzSpace PhD Eleanor Yacopetti."
 date: 2022-07-28
 permalink: /blog/2022-05/yacopetti-fieldwork/
 show_date: true
