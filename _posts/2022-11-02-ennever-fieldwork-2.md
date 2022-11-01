@@ -11,19 +11,21 @@ layout: splash
 
 I recently wrapped a really busy and productive three months in Balgo, WA. Two big highlights of this trip were the successful Canning Stock Route and Wilkinkarra 'On Country' trips organised by Warlaryirti Artists in June and August (read more [here](https://www.abc.net.au/news/2022-07-24/warlayirti-arts-centre-inspired-canning-stock-route/101254262)). These trips were a fantastic opportunity for Balgo families to return to their country, paint and pass on stories to the next generation. 
 
-<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_CSR.jpg" width="700" height="700"></p>
+<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_CSR.jpg"></p>
+*Balgo artists painting on country during the Caning Stock Route trip. Photo credit: Warlayirti Artists*
 
-<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_Wilkinkarra.JPG" width="700" height="700"></p>
+<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_CSRreturn.JPG"></p>
+*Traversing <i>ngurarra<\i> country "middle country" on the way back from a successful trip to Wilkinkarra*
 
-<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_CSRreturn.JPG" width="700" height="700"></p>
+Back in Balgo I stayed busy working with many savvy language speakers, transcribing and translating old stories as well as recording new ones. We had lots of Balgo mob join in on various ‘space games’ which we are using to learn more about how spatial concepts are encoded in the Kukatja language and how the language is changing (and staying strong!) across generations.
 
-Back in Balgo I stayed busy working with many savvy language speakers, transcribing and translating old stories as well as recording new ones. We had lots of Balgo mob join in on various ‘space games’ which we are using to learn more about how spatial concepts are encoded in the Kukatja language and how the language is changing (and staying strong!) across generations (see Hayley and Bianca Mudgedell playing the "Man and Tree" game below).
+<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_Haley_Bianca.png"></p>
+*Hayley (L) and Bianca Mudgedell (R) playing the "Man and Tree" game).*
 
-<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_Haley_Bianca.png" width="700" height="700"></p>
+These more specialised tasks are being used in conjunction with narratives and re-tellings of trips on country to build up a complex picture of how Kukatja mob talk about land, landscape and the spatial relationships between places, things and people. 
 
- These more specialised tasks are being used in conjunction with narratives and re-tellings of trips on country (see Helicopter Tjungurrayi describing GoPro footage below) to build up a complex picture of how Kukatja mob talk about land, landscape and the spatial relationships between places, things and people. 
-
-<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_Helicopter.png" width="700" height="700"></p>
+<p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_Helicopter.png"></p>
+*Helicopter Tjungurrayi describes Natawalu—where he was picked up by his namesake as a boy—while reviewing GoPro footage.*
 
 It was a great to have Joe Blythe drop into Balgo and meet up with some of the Mudgedell family who have connections to Jaru country. Read about what we got up to [here](https://www.ciaraproject.com/post-singolo/2022-east-kimberley-fieldtrip).
 
