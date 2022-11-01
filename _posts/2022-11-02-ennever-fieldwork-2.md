@@ -15,7 +15,7 @@ I recently wrapped a really busy and productive three months in Balgo, WA. Two b
 *Balgo artists painting on country during the Caning Stock Route trip. Photo credit: Warlayirti Artists*
 
 <p style="text-align:center;"><img src="/assets/images/Ennever_Blogpost_2_CSRreturn.JPG"></p>
-*Traversing <i>ngurarra<\i> country "middle country" on the way back from a successful trip to Wilkinkarra*
+*Traversing **ngurarra** "middle country" on the way back from a successful trip to Wilkinkarra*
 
 Back in Balgo I stayed busy working with many savvy language speakers, transcribing and translating old stories as well as recording new ones. We had lots of Balgo mob join in on various ‘space games’ which we are using to learn more about how spatial concepts are encoded in the Kukatja language and how the language is changing (and staying strong!) across generations.
 
