@@ -29,7 +29,7 @@ These more specialised tasks are being used in conjunction with narratives and r
 ![Ennever_Blogpost_2_Helicopter.png](/assets/images/Ennever_Blogpost_2_Helicopter.png)
 *Helicopter Tjungurrayi describes Natawalu—where he was picked up by his namesake as a boy—while reviewing GoPro footage*
 
-It was a great to have Joe Blythe drop into Balgo and meet up with some of the Mudgedell family who have connections to Jaru country. Read about what we got up to [here](https://www.ciaraproject.com/post-singolo/2022-east-kimberley-fieldtrip).
+While in Balgo, it was a great to have, OzSpace team member Joe Blythe drop in on his way up (and down) the Tanami and meet up with some of the Mudgedell family who have connections to Jaru country and were excited to speak some Jaru with a visitor. Read about what we got up to [here](https://www.ciaraproject.com/post-singolo/2022-east-kimberley-fieldtrip).
 
 The end of my Balgo trip aligned with a wonderful celebration in Balgo for Warlayirti Artists 35th Birthday, covered [here](https://www.abc.net.au/news/2022-09-01/was-first-aboriginal-art-centre-warlayirti-celebrates-35-years/101389900). While I sadly missed out on the live music night, it was really special to see the results of all the creative energy that has gone into the art centre over the last few years and, in particular, the creative outputs from time spent on country.
 
