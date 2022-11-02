@@ -1,5 +1,5 @@
 ---
-title: 'News from the field: Balgo'
+title: 'News from the field: Balgo (Western Australia)'
 excerpt: "A fieldwork summary from OzSpace PhD Tom Ennever."
 date: 2022-11-02
 permalink: /blog/2022-06/Ennever-fieldwork/
