@@ -14,7 +14,7 @@ layout: splash
 I recently wrapped a really busy and productive three months in Balgo, WA. Two big highlights of this trip were the successful Canning Stock Route and Wilkinkarra 'On Country' trips organised by Warlaryirti Artists in June and August (read more [here](https://www.abc.net.au/news/2022-07-24/warlayirti-arts-centre-inspired-canning-stock-route/101254262)). These trips were a fantastic opportunity for Balgo families to return to their country, paint and pass on stories to the next generation. 
 
 ![Ennever_Blogpost_2_CSR](/assets/images/Ennever_Blogpost_2_CSR.jpg)
-*Balgo artists painting on country during the Caning Stock Route trip. Photo credit: Warlayirti Artists*
+*Balgo artists painting on country during the Canning Stock Route trip. Photo credit: Warlayirti Artists*
 
 ![Ennever_Blogpost_2_CSRreturn](/assets/images/Ennever_Blogpost_2_CSRreturn.JPG)
 *Traversing **ngurarra** "middle country" on the way back from a successful trip to Wilkinkarra*
