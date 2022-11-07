@@ -35,6 +35,8 @@ feature_row1:
     btn_class: "btn--inverse"
     type: right
     image_caption: "Photo by Tom Ennever"
+    
+feature_row2:
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
     title: "More coming soon"
@@ -43,16 +45,6 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
-    
-feature_row2:
-  - image_path: /assets/images/flat.jpg
-    alt: "placeholder image 1"
-    title: "tjek 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    type: left
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    type: center
   - image_path: /assets/images/flat.jpg
     alt: "tjek image 2"
     title: "Placeholder 2"
