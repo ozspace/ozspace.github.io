@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 title: Kukatja
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-permalink: /languages-and-fieldsites/kune/
+permalink: /languages-and-fieldsites/kukatja/
 header:
   overlay_image: /assets/images/splash.jpg
   caption: Photo by Phillipe Wuyts
@@ -14,7 +14,7 @@ The Kukatja (and Ngardi) language is associated with tracts of country south of 
 
 The majority of Kukatja speakers today live in the community of Balgo or the neighbouring communities of Mulan and Billiluna. Balgo itself was initially established as a Catholic Mission by the Pallottines in the late 1930s. Desert families continued to 'walk in' to the Old Mission site throughout the 1940s-50s and even into the 1969s before the entire settlement was moved east to its current location (Wirrimanu) in 1965. Due to its complex colonial history, many Balgo people have families to the north (with Jaru families at Ringer's Soak), to the east (with Warlpiri families in Yuendumu and Lajamanu), to the west (with Walmajarri families in Fitzroy) and to the south (with Kukajta/Pintupi families in Kiwirrkurra). Many Balgo people have families even further afield far: in other desert communities (e.g. with Martu in Kunawarritji) or (e.g. with Pintupi in Warlungurru [Kintore]). Balgo residents frequently travel huge distances to spend time in other communities visiting family or have even grown up moving between these different locations.
 
-| ![Australian landscape](/assets/images/GOPR0065.JPG "Picture of Australian landscape") |
+| ![Australian landscape](/assets/images/GOPR0065.JPG "Photo of trip on country") |
 |:--:|
 | *Piparr outstation looking south over Ngururrpa country (Ngardi/Kukatja)* <small> (source: Tom Ennever) </small> |
 
