@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 title: Kune
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-permalink: /languages-and-fieldsites/kune/
+permalink: /languages-and-fieldsites/kukatja/
 header:
   overlay_image: /assets/images/splash.jpg
   caption: Photo by Phillipe Wuyts
