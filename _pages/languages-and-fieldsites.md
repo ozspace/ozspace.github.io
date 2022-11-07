@@ -27,7 +27,7 @@ feature_row1:
     type: center
     image_caption: "Photo by  Carlos Kruger/Eleanor Yacopetti"
   - image_path: /assets/images/GOPR0065.JPG
-    alt: "Australian landscape photo"
+    alt: "Photo of On Country trip"
     title: "Kukatja"
     excerpt: "Information on Kukatja"
     url: "/languages-and-fieldsites/Kukatja"
