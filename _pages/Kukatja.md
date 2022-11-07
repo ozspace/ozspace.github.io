@@ -16,7 +16,7 @@ The majority of Kukatja speakers today live in the community of Balgo or the nei
 
 | ![Australian landscape](/assets/images/GOPR0065.jpg "Picture of Australian landscape") |
 |:--:|
-| *Balgo* <small> (source: Tom Ennever) </small> |
+| *Piparr outstation looking south over Ngururrpa country (Ngardi/Kukatja)* <small> (source: Tom Ennever) </small> |
 
 Kukatja as a Western Desert language belongs to the Pama-Nyungan family of Australian languages. Syntactically, it exhibits a mixture of dependent and head marking properties, having both a rich case marking system encoding grammatical (and local) functions as well as a complex system of cross-referencing enclitic bound pronouns. Kukatja has a number of features of so-called 'non-configurational' languages, exhibiting (grammatically) free word order, discontinuous phrase structure and frequent ellipsis of nominal arguments.
 
