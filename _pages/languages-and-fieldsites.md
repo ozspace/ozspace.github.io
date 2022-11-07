@@ -34,6 +34,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: right
+    image_caption: "Photo by Tom Ennever"
 
 feature_row2:
   - image_path: /assets/images/placeholder1.jpg
