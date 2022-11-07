@@ -26,6 +26,15 @@ feature_row1:
     btn_class: "btn--inverse"
     type: center
     image_caption: "Photo by  Carlos Kruger/Eleanor Yacopetti"
+  - image_path: /assets/images/GOPR0065.JPG.jpg
+    alt: "Australian landscape photo"
+    title: "Kukatja"
+    excerpt: "Information on Kukatja"
+    url: "/languages-and-fieldsites/Kukatja"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    type: center
+    image_caption: "Photo by Tom Ennever"
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
     title: "More coming soon"
