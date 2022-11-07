@@ -43,7 +43,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
-
+    
 feature_row2:
   - image_path: /assets/images/flat.jpg
     alt: "placeholder image 1"
