@@ -45,6 +45,8 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
+ 
+ feature_row3:
   - image_path: /assets/images/flat.jpg
     alt: "tjek image 2"
     title: "Placeholder 2"
