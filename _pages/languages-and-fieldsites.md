@@ -33,7 +33,7 @@ feature_row1:
     url: "/languages-and-fieldsites/Kukatja"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    type: center
+    type: right
     image_caption: "Photo by Tom Ennever"
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
@@ -42,7 +42,7 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    type: right
+    type: left
 
 feature_row2:
   - image_path: /assets/images/flat.jpg
@@ -72,5 +72,6 @@ feature_row2:
 ---
 ## Languages and fieldsites
 {% include feature_row1 %}
+{% include feature_row2 %}
 
 <!-- When more languages are added add {% include feature_row2 %}. -->
