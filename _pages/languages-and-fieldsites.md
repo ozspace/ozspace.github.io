@@ -27,10 +27,10 @@ feature_row1:
     type: center
     image_caption: "Photo by  Carlos Kruger/Eleanor Yacopetti"
   - image_path: /assets/images/GOPR0065.JPG
-    alt: "Photo of On Country trip"
+    alt: "Photo of trip on country"
     title: "Kukatja"
     excerpt: "Information on Kukatja"
-    url: "/languages-and-fieldsites/Kukatja"
+    url: "/languages-and-fieldsites/kukatja"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: right
