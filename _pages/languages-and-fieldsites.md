@@ -30,12 +30,11 @@ feature_row1:
     alt: "Photo of trip on country"
     title: "Kukatja"
     excerpt: "Information on Kukatja"
-    url: "/languages-and-fieldsites/kukatja"
+    url: "/languages-and-fieldsites/kukatja/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: right
-    image_caption: "Photo by Tom Ennever"
-    
+
 feature_row2:
   - image_path: /assets/images/placeholder1.jpg
     alt: "placeholder image 2"
@@ -45,27 +44,9 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     type: left
- 
- feature_row3:
-  - image_path: /assets/images/flat.jpg
-    alt: "tjek image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    type: center
-  - image_path: /assets/images/placeholder.jpg
-    alt: "placeholder image 2"
-    title: "more coming soon"
-    excerpt: ""
-    url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--inverse"
-    type: right
+
 ---
 ## Languages and fieldsites
 {% include feature_row1 %}
-{% include feature_row2 %}
 
 <!-- When more languages are added add {% include feature_row2 %}. -->
