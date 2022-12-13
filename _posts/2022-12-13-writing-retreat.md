@@ -17,7 +17,7 @@ Following the conference, several team members travelled to Warburton in regiona
 
 We also spent a day reviewing project findings so far and writing abstracts for upcoming conferences in 2023. More info to come!
 
-![OzSpace team photo at 2022 writing retreat](/assets/images/retreat_team_photo.jpg)
+![OzSpace team photo at 2022 writing retreat](/assets/images/IMG_3877.jpg)
 
 *Team members on the OzSpace Writing Retreat (L-R): Eleanor Yacopetti, Laurits Stapput Knudsen, Tom Ennever, Thomas Poulton and Jayden Macklin-Cordes.*
 
