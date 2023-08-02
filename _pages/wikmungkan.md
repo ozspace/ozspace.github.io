@@ -10,11 +10,9 @@ header:
 ---
 Wik-Mungkan is an Aboriginal language mostly spoken in Aurukun on west coast of the Cape York Peninsula in Queensland, Australia.  Wik-Mungkan can be classified as a Middle Paman language, and the language was historically spoken inland in a large area between the Archer and Edward rivers, with the only coastal connection being where Aurukun is now located. The map below shows the area traditionally associated with Wik-Mungkan.
 
-Insert map
-| ![Map of Cape York](/assets/images/wik-map.JPG "Map of Cape York showing area traditionally associated with Wik-Mungkan") |
+![Map of Wik Country on Cape York](/assets/images/wik-map.jpg "Map of Wik Country on Cape York")
 |:--:|
-| *Map of Cape York showing the area associated with Wik-Mungkan* <small> (source: Kilham, C., Pamulkam, M., Pootchemunka, M., Wolmby, T., Adams, J., Bell, J., & Namponan, G. (1986). Dictionary and sourcebook of the Wik-Mungkan language:
-Summer Institute of Linguistics, Australian Aborigines Branch.) </small> |
+| Map of Cape York <small> (source: Kilham, C., Pamulkam, M., Pootchemunka, M., Wolmby, T., Adams, J., Bell, J., & Namponan, G. (1986). Dictionary and sourcebook of the Wik-Mungkan language: Summer Institute of Linguistics, Australian Aborigines Branch.) </small> |
 
 The language is spoken by Wik-Mungkan people and used as a lingua franca in the area by related groups of the area (e.g. Wik-Ngathan, Wikalken, Kugu Nganhcara, Kugu Muminh, etc.). Nowadays, most members of these group speak Wik-Mungkan as their first language. There are approximately 1000 speakers of Wik-Mungkan, and children are still learning Wik-Mungkan as their first language.
 
