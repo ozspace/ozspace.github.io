@@ -26,6 +26,8 @@ feature_row1:
     btn_class: "btn--inverse"
     type: center
     image_caption: "Photo by  Carlos Kruger/Eleanor Yacopetti"
+
+feature_row2:
   - image_path: /assets/images/GOPR0065.JPG
     alt: "Photo of trip on country"
     title: "Kukatja"
@@ -33,21 +35,21 @@ feature_row1:
     url: "/languages-and-fieldsites/kukatja/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    type: right
+    type: left
     image_caption: "Photo by Tom Ennever"
-
-feature_row2:
-  - image_path: /assets/images/placeholder1.jpg
-    alt: "placeholder image 2"
-    title: "More coming soon"
-    #excerpt: "Brief info on Kukatja."
-    url: "#test-link"
+  - image_path: /assets/images/wikmungkan.jpg
+    alt: "Photo of river from Obon beach near Aurukun"
+    title: "Wik-Mungkan"
+    excerpt: "Information on Wik-Mungkan"
+    url: "/languages-and-fieldsites/wikmungkan/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    type: left
+    type: center
+    image_caption: Photo by Laurits Stapput Knudsen
 
 ---
 ## Languages and fieldsites
 {% include feature_row1 %}
+{% include feature_row2 %}
 
 <!-- When more languages are added add {% include feature_row2 %}. -->
