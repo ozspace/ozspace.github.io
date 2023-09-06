@@ -1,7 +1,7 @@
 ---
 title: 'Laurits Field Trips 2023'
 excerpt: "A short report from OzSpace PhD Laurits Stapput Knudsens first fieldtrips"
-date: 2022-09-06
+date: 2023-09-06
 permalink: /blog/2022-09/laurits-field-trips/
 show_date: true
 layout: splash
