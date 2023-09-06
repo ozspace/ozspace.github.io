@@ -1,6 +1,6 @@
 ---
-title: 'Laurits Field Trips 2023 '
-excerpt: "A short report from OzSpace PhD Laurits Stapput Knudsens first fieldtrips."
+title: 'Laurits Field Trips 2023'
+excerpt: "A short report from OzSpace PhD Laurits Stapput Knudsens first fieldtrips"
 date: 2023-09-06
 permalink: /blog/2023-09/laurits-field-trips/
 show_date: true
@@ -9,7 +9,7 @@ layout: splash
 
 ### Laurits Field Trips 2023 
 
-<small> *Author: Laurits Stapput Knudsen* </small> 
+*Author: Laurits Stapput Knudsen*
 
 Slightly overwhelmed by the Far North Queensland heat, I (Scandinavian) OzSpace PhD Laurits Stapput Knudsen, have returned from my first few trips to Aurukun on the west coast of Cape York. During these trips over the last 8 months I have completed a significant portion of my fieldwork for my PhD project on spatial language in Wik-Mungkan. Spending a few months in Aurukun has proven to be remarkably productive during these three separate trips.
 
