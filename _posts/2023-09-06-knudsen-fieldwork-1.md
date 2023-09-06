@@ -2,7 +2,7 @@
 title: 'Laurits Field Trips 2023'
 excerpt: "A short report from OzSpace PhD Laurits Stapput Knudsens first fieldtrips"
 date: 2023-09-06
-permalink: /blog/2022-09/laurits-field-trips/
+permalink: /blog/2023-09/laurits-field-trips/
 show_date: true
 layout: splash
 ---
@@ -20,6 +20,7 @@ In addition to collecting information using standardised elicitation tools, I al
 One example of this hospitality is the immense patience with my subpar fishing skills on display on the below photo.
 
 ![Karndayhwankeno](/assets/images/LauritsFieldTrip.png)
+
 *One of Laurits Stapput Knudsen initial attempts at fishing with a handline*
 
 In addition to my time in Aurukun, I also spent some time in both Laura and Cairns. I joined a community delegation for the Laura Dance Festival, where the Wik mob reached the final round. It was an incredible experience witnessing various groups from the Cape region sharing their experiences. In Cairns, I had the privilege of collaborating with community members who graciously introduced me to Wik-Mungkan people residing in Cairns some of the time. During my trips to Laura and Cairns, I took the opportunity to investigate the usage of geocentric terms, attempting to unravel the semantics of these terms: are the terms traditionally translated as ‘north’, ‘south’, ‘east’, and ‘west’ anchored in any environmental features, or are they truly abstract cardinals? 
